@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566374540578.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4FF7771A",
+    "lastKnownWriteTime" : 1566392017,
+    "last_content_update" : 1566392017300,
+    "path" : "~/VolBlack76/R/vol_bl76.R",
+    "project_path" : "R/vol_bl76.R",
+    "properties" : {
+        "cursorPosition" : "23,14",
+        "scrollLine" : "13"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
